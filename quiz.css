@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+.card {
+  width: 600px;
+  margin: 100px auto;
+  padding: 40px;
+  border: solid black;
+  border-radius: 20px;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+
+.button {
+  width: 150px;
+  margin: auto;
+  padding: 10px;
+  background-color: yellow;
+  border-radius: 20px;
+}
